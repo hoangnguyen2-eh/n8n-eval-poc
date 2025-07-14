@@ -1,6 +1,6 @@
 # n8n-eval-poc
 
-This project is a proof-of-concept environment for running and evaluating [n8n](https://n8n.io/) workflows, with persistent data storage and evaluation datasets.
+This project is a proof-of-concept environment for running [n8n](https://n8n.io/) workflows to evaluate skyvern new prompt , with persistent data storage and evaluation datasets.
 
 ## Project Structure
 
