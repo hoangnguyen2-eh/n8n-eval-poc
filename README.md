@@ -61,5 +61,6 @@ Once the container is running, access the n8n editor at:
 
 
 The pipeline: (Will have to add key for OpenAI and skyvern in order to work)
-<img width="1565" height="632" alt="image" src="https://github.com/user-attachments/assets/02353503-185e-46ab-9a4d-bd23e3f0ee7d" />
+<img width="1600" height="454" alt="image" src="https://github.com/user-attachments/assets/ca836a0b-6e87-4401-b6c0-6276f7313ac5" />
+
 
